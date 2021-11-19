@@ -56,6 +56,7 @@ dependencies:
     - pyperclip==1.7.0
     - pytest==4.6.11
     - python-binance==0.7.5
+    - psycopg2-binary==2.9.2
     - python-telegram-bot==12.4.2
     - requests==2.22.0
     - rsa==4.7
